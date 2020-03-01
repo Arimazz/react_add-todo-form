@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8c1e1379927a7fa81b94eb055cd9bb2",
+    "revision": "337da8ba9c54230097dd36087c585eeb",
     "url": "/react_add-todo-form/index.html"
   },
   {
-    "revision": "1195c2979f8d3a10d5a2",
+    "revision": "eca25c284f8ce81b03db",
     "url": "/react_add-todo-form/static/css/main.8580a426.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_add-todo-form/static/js/2.6d2b405f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1195c2979f8d3a10d5a2",
-    "url": "/react_add-todo-form/static/js/main.e62bb92b.chunk.js"
+    "revision": "eca25c284f8ce81b03db",
+    "url": "/react_add-todo-form/static/js/main.58ed74d7.chunk.js"
   },
   {
     "revision": "c68cb2139c8af9f15386",
